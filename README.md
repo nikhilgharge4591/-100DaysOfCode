@@ -1,2 +1,2 @@
-# -100DaysOfCode
+#100DaysOfCode
 SDE Preparation Repo
